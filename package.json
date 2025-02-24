@@ -1,0 +1,11 @@
+{
+  "name": "jwks-aggregator",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/aggregate.js"
+  },
+  "dependencies": {
+    "jose": "^6.0.0"
+  },
+  "type": "module"
+}

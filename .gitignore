@@ -1,0 +1,7 @@
+# Dépendances Node.js
+node_modules/
+
+# Fichiers système
+.DS_Store
+
+.well-known/
