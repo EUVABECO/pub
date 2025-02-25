@@ -4,7 +4,7 @@ import { importJWK, exportJWK } from 'jose';
 
 async function main() {
   const pubKeysDir = path.join(process.cwd(), 'pub_keys');
-  const outputDir = path.join(process.cwd(), 'build/well-known');
+  const outputDir = path.join(process.cwd(), 'build/.well-known');
 
   fs.mkdirSync(outputDir, { recursive: true });
 
@@ -43,9 +43,7 @@ async function main() {
 
   const jwks = { keys: Array.from(keysMap.values()) };
   const outputFile = path.join(outputDir, 'jwks.json');
-  const helloWorld = path.join(outputDir, 'index.html');
   fs.writeFileSync(outputFile, JSON.stringify(jwks, null, 2));
-  fs.writeFileSync(helloWorld, "<html><body><h1>Hello</h1></body><html/>");
   console.log(`JWKS file generated successfully at ${outputFile}`);
 }
 
