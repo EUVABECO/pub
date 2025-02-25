@@ -4,11 +4,9 @@ import { importJWK, exportJWK } from 'jose';
 
 async function main() {
   const pubKeysDir = path.join(process.cwd(), 'pub_keys');
-  const outputDir = path.join(process.cwd(), '.well-known');
+  const outputDir = path.join(process.cwd(), 'build/.well-known');
 
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir);
-  }
+  fs.mkdirSync(outputDir, { recursive: true });
 
   const keysMap = new Map();
 
