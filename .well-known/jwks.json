@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "x": "FDMpzOeGjkFpJ1mc9lo0884v_aVafspp7YkZo5TULw8",
+      "y": "YPfxp4DYp4O_t6LdayeW6BKNu87509Fo25Uplxo257k",
+      "crv": "P-256",
+      "kid": "AsymmetricECDSA256LUX"
+    },
+    {
+      "kty": "EC",
+      "x": "FDMpzOeGjkFpJ1mc9lo0884v_aVafspp7YkZo5TULw8",
+      "y": "YPfxp4DYp4O_t6LdayeW6BKNu87509Fo25Uplxo257k",
+      "crv": "P-256",
+      "kid": "AsymmetricECDSA256"
+    }
+  ]
+}
