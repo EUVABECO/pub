@@ -2,10 +2,31 @@
   "keys": [
     {
       "kty": "EC",
+      "x": "JDYEl8ak87o53uavCXQXO0NHyuhzR9WlNQKfhkQnyvw",
+      "y": "W-MshaNzDAirLgFv0W5m__2wgP0m-CPx2Xg1Hzdyvs0",
+      "crv": "P-256",
+      "kid": "0xa4970ae97cf750c9"
+    },
+    {
+      "kty": "EC",
+      "x": "S7-ibOk3VEzhFhAH55tNgRDlNQBDB3pr97KtSis5dDI",
+      "y": "KI7LhwoKfLa0EhwKg7Ni5RlLz0BinnTc5m4q8Qj0uIw",
+      "crv": "P-256",
+      "kid": "0xC9D8367933B4EC4C"
+    },
+    {
+      "kty": "EC",
       "x": "FDMpzOeGjkFpJ1mc9lo0884v_aVafspp7YkZo5TULw8",
       "y": "YPfxp4DYp4O_t6LdayeW6BKNu87509Fo25Uplxo257k",
       "crv": "P-256",
       "kid": "AsymmetricECDSA256LUX"
+    },
+    {
+      "kty": "EC",
+      "x": "FDMpzOeGjkFpJ1mc9lo0884v_aVafspp7YkZo5TULw8",
+      "y": "YPfxp4DYp4O_t6LdayeW6BKNu87509Fo25Uplxo257k",
+      "crv": "P-256",
+      "kid": "SYA25A"
     },
     {
       "kty": "EC",
