@@ -7,7 +7,7 @@ async function main() {
   const outputDir = path.join(process.cwd(), 'build/.well-known');
 
   fs.mkdirSync(outputDir, { recursive: true });
-  fs.writeFileSync(path.join(outputDir, 'CNAME'), 'keys.euvabeco.eu')
+  fs.writeFileSync(path.join('build', 'CNAME'), 'keys.euvabeco.eu')
 
   const keysMap = new Map();
 
