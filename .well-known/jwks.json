@@ -2,6 +2,13 @@
   "keys": [
     {
       "kty": "EC",
+      "x": "kKnv-wQKqkcqYsvONXol1IOuGaCrY3yBkNOS2oNcg9k",
+      "y": "ajI1a9eK5nYGKU_LQ2E2HjMETWCwCx5wDsyi341mrzM",
+      "crv": "P-256",
+      "kid": "BIM26A"
+    },
+    {
+      "kty": "EC",
       "x": "JDYEl8ak87o53uavCXQXO0NHyuhzR9WlNQKfhkQnyvw",
       "y": "W-MshaNzDAirLgFv0W5m__2wgP0m-CPx2Xg1Hzdyvs0",
       "crv": "P-256",
