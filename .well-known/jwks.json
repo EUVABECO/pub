@@ -30,6 +30,13 @@
     },
     {
       "kty": "EC",
+      "x": "Hm4npXdoV8iyyHQeAK9e1zdImM8Aibsa6d-TPPEbP6w",
+      "y": "8spo34RvHaY0wyg5ayV4vwMaUD1JtGSBCp4C77X9GEc",
+      "crv": "P-256",
+      "kid": "bbb27792-77a9-4b47-aaa0-532a0f3cef27"
+    },
+    {
+      "kty": "EC",
       "x": "kKnv-wQKqkcqYsvONXol1IOuGaCrY3yBkNOS2oNcg9k",
       "y": "ajI1a9eK5nYGKU_LQ2E2HjMETWCwCx5wDsyi341mrzM",
       "crv": "P-256",
