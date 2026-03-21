@@ -3,7 +3,7 @@
   "kty": "EC",
   "use": "sig",
   "crv": "P-256",
-  "kid": "bbb27792-77a9-4b47-aaa0-532a0f3cef27",
-  "x": "Hm4npXdoV8iyyHQeAK9e1zdImM8Aibsa6d-TPPEbP6w",
-  "y": "8spo34RvHaY0wyg5ayV4vwMaUD1JtGSBCp4C77X9GEc"
+  "kid": "be6b28b8-f5a4-4543-a80a-bc764c619feb",
+  "x": "OdOP_Dx0ty9qmM9nq7kZmggWprTeOUtb2eCO7fqCvbY",
+  "y": "yyQNgpnaAKeRshZJ657tBqTIBvT4JCMa7WgCxuGZhZM"
 }
