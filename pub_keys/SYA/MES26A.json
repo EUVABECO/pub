@@ -1,0 +1,8 @@
+{
+  "alg": "ES256",
+  "kty": "EC",
+  "crv": "P-256",
+  "x": "TPfDIGcySCw6iexbhdtK-3OE0sDJH1S2aU52JWN6Bx0",
+  "y": "tnml1oAUe4E7Rih-U2eSoROpOnTQ6V0bI--qYJ0v3dM",
+  "kid": "MES26A"
+}
