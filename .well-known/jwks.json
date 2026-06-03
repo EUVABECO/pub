@@ -51,6 +51,13 @@
     },
     {
       "kty": "EC",
+      "x": "TPfDIGcySCw6iexbhdtK-3OE0sDJH1S2aU52JWN6Bx0",
+      "y": "tnml1oAUe4E7Rih-U2eSoROpOnTQ6V0bI--qYJ0v3dM",
+      "crv": "P-256",
+      "kid": "MES26A"
+    },
+    {
+      "kty": "EC",
       "x": "FDMpzOeGjkFpJ1mc9lo0884v_aVafspp7YkZo5TULw8",
       "y": "YPfxp4DYp4O_t6LdayeW6BKNu87509Fo25Uplxo257k",
       "crv": "P-256",
